@@ -1,5 +1,9 @@
 # Getting Started with Serverless Stack (SST)
 
+Creates a Cognito user pool to create a JWT authorization.
+
+The application will only authorize 
+
 Application creates a REST Api for vehicles using the following end points:
 - `GET vehicles/`: get all vehicles
 - `GET vehicles/{id}`: get a specific vehicle
